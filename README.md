@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm K S S Nikhil</h1>
-<h3 align="center">I am currently a Senior at University of Wisconsin, Madison and am majoring in Computer Science.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kssnikhil2002" alt="kssnikhil2002" /></a> </p>
+<h3 align="center">About me</h3>
 
 - 🌱 I’m currently learning **IOS Application Development and python for data analysis**
 
-- 📫 How to reach me **skruthiventi@wisc.edu**
+- 📫 How to reach through: **skruthiventi@wisc.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kssnikhil2002&show_icons=true&locale=en" alt="kssnikhil2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kssnikhil2002&" alt="kssnikhil2002" /></p>
-
