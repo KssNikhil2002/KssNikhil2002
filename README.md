@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm K S S Nikhil</h1>
 <h3 align="center">About me</h3>
 
-- 🌱 I’m currently learning **IOS Application Development and python for data analysis**
-
 - 💬 I am a passionate **software developer aiming to build seamless applications**
+
+- 🌱 I’m currently learning **IOS Application Development and python for data analysis**
 
 - 📫 How to reach through me **skruthiventi@wisc.edu**
 
