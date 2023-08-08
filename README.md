@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **IOS Application Development and python for data analysis**
 
-- 📫 How to reach through: **skruthiventi@wisc.edu**
+- 💬 I am a passionate **software developer aiming to build seamless applications**
+
+- 📫 How to reach through me **skruthiventi@wisc.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
